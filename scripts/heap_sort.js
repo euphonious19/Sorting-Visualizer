@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */
@@ -99,7 +99,7 @@ function heap_sort()
 
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */

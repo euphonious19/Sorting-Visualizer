@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */
@@ -46,7 +46,7 @@ function Bubble()
 
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */

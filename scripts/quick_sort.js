@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */
@@ -82,7 +82,7 @@ function quick_sort (start, end )
 
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */

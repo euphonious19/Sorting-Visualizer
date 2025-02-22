@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */
@@ -94,7 +94,7 @@ function runalgo()
 
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */

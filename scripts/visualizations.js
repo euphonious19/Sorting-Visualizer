@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */
@@ -59,7 +59,7 @@ function enable_buttons()
 
 /*
     *****************
-    DONE BY:-   MEHUL SINGHAL
+    DONE BY:- Lovely Kumari
     
     *****************
 */
